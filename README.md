@@ -1,13 +1,23 @@
-Proyecto Aeropuerto
-¡Bienvenido al Proyecto Aeropuerto! Este repositorio contiene el código fuente y la documentación relacionada con un sistema de gestión de aeropuertos.
+Airport Project
+Welcome to the Airport Project! This repository contains the source code and documentation related to an airport management system.
 
-Descripción del Proyecto
-El objetivo de este proyecto es desarrollar un sistema integral para la gestión eficiente y segura de un aeropuerto. Esto incluye funcionalidades como registro de vuelos, gestión de pasajeros, control de seguridad, asignación de puertas de embarque, seguimiento de equipaje y más.
+Project description
+The objective of this project is to develop a comprehensive system for the efficient and safe management of an airport. This includes functionalities such as flight registration, passenger management, security screening, gate assignment, baggage tracking and more.
 
-Estructura del Repositorio
-/src: Contiene el código fuente del proyecto.
-/docs: Documentación del proyecto, incluyendo manuales de usuario y diagramas de arquitectura.
-/data: Datos de muestra para pruebas y desarrollo.
-/tests: Suite de pruebas automatizadas para garantizar la calidad del software.
+Main Features
+Register Airport: Allows you to add new airports by specifying their name and location.
+Add Flight: Allows you to register new flights with detailed information, such as flight number, airline, departure time, destination and maximum passenger capacity.
+Reserve Seats: Allows passengers to reserve seats on specific flights.
+View Passenger Information: Shows detailed information of passengers registered on a specific flight.
+How to use
+Clone Repository: Clone this repository to your local machine.
+Compile the Code: Use a Java development environment to compile the source code.
+Run the Application: Run the App.java file to start the application.
+Interact with the Menu: Follow the instructions provided in the menu to perform the desired operations.
 
-este ´projecto tiene una multi funcion en el menu cua
+Repository Structure
+/src: Contains the project source code.
+/docs: Project documentation, including user manuals and architecture diagrams.
+/data: Sample data for testing and development.
+/tests: Automated testing suite to ensure software quality.
+
